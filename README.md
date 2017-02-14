@@ -30,3 +30,6 @@ heatmap
 ![image] (https://cloud.githubusercontent.com/assets/20691156/21358354/0e8480fe-c69e-11e6-8a4e-03d7bf246fb1.png)
 
 
+
+This dataset was found on Kaggle and the URL below.
+https://www.kaggle.com/ludobenistant/hr-analytics
