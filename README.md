@@ -26,12 +26,7 @@ From this deeper look into HR data from Company X, I was able to gain deeper ins
 
 
 
-satisfaction graph 
-![image] https://cloud.githubusercontent.com/assets/20691156/21358353/0e7f7bcc-c69e-11e6-91f8-d66e75e113cc.png()
 
-
-heatmap
-![image] (https://cloud.githubusercontent.com/assets/20691156/21358354/0e8480fe-c69e-11e6-8a4e-03d7bf246fb1.png)
 
 
 
