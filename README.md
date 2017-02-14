@@ -22,6 +22,10 @@ Figure. 2 Original Column Names
 hours vs leave graph 
 ![image] (https://cloud.githubusercontent.com/assets/20691156/21358352/0e7c6658-c69e-11e6-9120-633fc19762be.png)
 
+
+
+![image] (https://cloud.githubusercontent.com/assets/20691156/22945788/ffda3672-f2ba-11e6-8a82-d4a0b43e40d0.png)
+
 From this deeper look into HR data from Company X, I was able to gain deeper insight into how certain employees leave. Fig. 1 demonstrates that between 6 and 10 hours of work per day correlated with a lower leaving percentage. The section of fig. 1 between 4 hours and 6 hours a day of work had a 40-50% of leaving. This percentage goes up to about 80%  as employees worked more than 12 hours. These findings are further collaborated by fig 2., which shows that as most employees crossed the same 12-13 hour boundary, job satisfaction dropped substantially. Self-reported satisfaction indexes do not necessarily imply employees will leave. As noted early, employees that have left are not overly represented by low satisfaction indexes (satisfied leavers were 28% of sample).  The correlations in this data suggest that overworking as well as underworking employees tend to leave. 
 
 
