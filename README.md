@@ -1,13 +1,17 @@
 ### A Case Against Overtime
 
 
+
 A dataset found on Kaggle.com contained almost 15,000 employees’ information. This trove of information was taken from Company “X” and provided a voluminous look into relevant business details on whether or not employees left. Given the robustness of the dataset, the goal of this project is to wade through the data and what could be an indicator of whether an employee stayed or not. 
 
 The .CSV dataset had one great advantage coming from Kaggle.com rather than being a real company’s information, it was already cleaned of nulls and wrong data types. The data originally contained 14,999 rows and 10 columns. The features reported at this company: satisfaction level, last evaluation level, number of projects, salary, average monthly hours, time spent at the company, work accident, promotion in the last 5 years, type of sales, and stayed/left. The satisfaction and last evaluation level is reported via 0.1-1.00, the salary is reported as “low,medium, high”, type of sales is reported as 6 different categories of jobs, and work accident/promotion in the last 5 years, and stayed/left is reported in binary. Given that some columns were nominal, the first step after reading it into a dataframe was to use a label encoder. Salary and sales were transformed. Next, to isolate the “leavers” and see if there were any trends. 
+
 ![alt text](https://github.com/jayghez/Valued_Employees/blob/master/VE_features.png)
-![alt text](https://github.com/jayghez/Valued_Employees/blob/master/total%20leavers.png)
+
 
 Unsurprisingly, unsatisfied leavers were the majority, calculated by a satisfaction level of less or equal to 0.5. After that insight, how many key employees or employees that are above 0.7 on their last evaluation and with the company more than 3 years, were leaving? Less of a percentage than workers as a whole, but still 30%. 
+
+![alt text](https://github.com/jayghez/Valued_Employees/blob/master/total%20leavers.png)
 
 After grouping employees that have received a promotion in the last 5 years and revealing only < .001% were leaving, there must be a principle component influencing the data. A heat map to look at correlations was created. 
 
