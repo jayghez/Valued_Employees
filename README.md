@@ -37,4 +37,4 @@ The correlations in this data suggest that overworking as well as underworking e
 ![alt text](https://github.com/jayghez/Valued_Employees/blob/master/graphs%20for%20VE%20con..png)
 
 
-
+This dataset was found on Kaggle and the URL below. https://www.kaggle.com/ludobenistant/hr-analytics
