@@ -26,9 +26,11 @@ The focus shifted to better understanding the average monthly hours column. A ne
 
 In this dataframe, two derived units were created. The average monthly hours was divided by 22 average work days in a month and broken down into average daily hours. Next a satisfaction of index was created from the average number of hours each worked daily and multiplied by the respective satisfaction level. This information was further aggregated by type of work and summed with others that had daily work hour averages to produce a table.
 
-![alt text](https://github.com/jayghez/Valued_Employees/blob/master/last%20table.png)
+![alt text](https://github.com/jayghez/Valued_Employees/blob/master/new%20workframe.png)
 
 Two tables were created from the work dataframe. Fig. 1 demonstrates that between 6 and 10 hours of work per day correlated with a lower leaving percentage. The section of fig. 1 between 4 hours and 6 hours a day of work had a 40-50% of leaving. This percentage goes up to about 80% as employees worked more than 12 hours. These findings are further collaborated by fig 2., which shows that as full time employees crossed the same 12-13 hour boundary, job satisfaction index dropped substantially. Self-reported satisfaction indexes do not necessarily imply employees will leave. As noted early, employees that have left are not overly represented by low satisfaction indexes (satisfied leavers were 28% of sample). 
+
+![alt text](https://github.com/jayghez/Valued_Employees/blob/master/last%20table.png)
 
 The correlations in this data suggest that overworking as well as underworking employees tend to leave. As part of the next project it would be valuable to confirm these findings with principle component analysis. Otherwise the next iteration of this project could look at “number of projects” data to explore what role that feature could play.
 
